@@ -78,3 +78,5 @@ Mehedi’s journey is driven by a commitment to equity and inclusion, particular
   </div> 
 
 </div>
+
+![Test Image](Images/Mehedi.jpg)
