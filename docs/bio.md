@@ -9,7 +9,7 @@ Mehedi Hasan is a Second-year PhD student in the Community, Environment, and Pol
     </p>
   </div>
   <div style="flex: 1;">
-    <img src="Images/HBCC_team_photo.jpg" alt="Mehedi Hasan" width="80%">
+    <img src="Images/HBCC_team_photo.JPG" alt="Mehedi Hasan" width="80%">
   </div>
 </div>
 
@@ -18,7 +18,7 @@ Mehedi Hasan is a Second-year PhD student in the Community, Environment, and Pol
 <!-- Paragraph 2 with image on the left -->
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 30px;">
   <div style="flex: 1;">
-    <img src="Images/dissemination.jpg" alt="Monte Carlo Simulation" width="100%">
+    <img src="Images/dissemination.JPG" alt="Monte Carlo Simulation" width="100%">
   </div>
   <div style="flex: 1;">
     <p>
@@ -36,7 +36,7 @@ His ability to lead diverse research teams, mentor students, and translate resea
     </p>
   </div>
   <div style="flex: 1;">
-    <img src="Images/presentation.jpg" alt="Mehedi Hasan" width="80%">
+    <img src="Images/presentation.JPG" alt="Mehedi Hasan" width="80%">
   </div>
 </div>
       
@@ -46,7 +46,7 @@ Mehedi’s journey is driven by a commitment to equity and inclusion, particular
 
   <!-- UA Logo -->
   <div style="flex: 1; min-width: 150px;">
-    <img src="Images/UofA_logo.png" alt="University of Arizona Logo" width="100" style="vertical-align: middle;">
+    <img src="Images/UofA_logo.PNG" alt="University of Arizona Logo" width="100" style="vertical-align: middle;">
   </div>
 
   <!-- Contact Info -->
@@ -61,19 +61,19 @@ Mehedi’s journey is driven by a commitment to equity and inclusion, particular
   <div style="flex: 2; min-width: 200px; text-align: left;">
     <p><strong>Connect:</strong></p>
     <a href="http://www.linkedin.com/in/mehedi-hasan-68129813a" target="_blank" style="margin-right: 10px;">
-      <img src="Images/Linkdin.png" alt="LinkedIn" width="24">
+      <img src="Images/Linkdin.PNG" alt="LinkedIn" width="24">
     </a>
     <a href="https://github.com/mehedi" target="_blank" style="margin-right: 10px;">
-      <img src="Images/GitHub_Logo.png" alt="GitHub" width="24">
+      <img src="Images/GitHub_Logo.PNG" alt="GitHub" width="24">
     </a>
     <a href="https://scholar.google.com/citations?user=LSdCFa4AAAAJ&hl=en" target="_blank">
-      <img src="Images/scholar.png" alt="Google acholar" width="24">
+      <img src="Images/scholar.PNG" alt="Google acholar" width="24">
     </a>
         <a href="https://www.facebook.com/profile.php?id=100008332921038&_rdc=1&_rdr#" target="_blank" style="margin-right: 10px;">
-      <img src="Images/Facebook_logo.png" alt="Facebook" width="40">
+      <img src="Images/Facebook_logo.PNG" alt="Facebook" width="40">
     </a>
         <a href="https://orcid.org/0000-0002-6112-941X" target="_blank" style="margin-right: 40px;">
-      <img src="Images/orcid-og-image.png" alt="Orchid ID" width="50">
+      <img src="Images/orcid-og-image.PNG" alt="Orchid ID" width="50">
     </a>
   </div> 
 

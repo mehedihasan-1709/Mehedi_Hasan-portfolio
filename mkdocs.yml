@@ -1,8 +1,8 @@
 site_name: Mehedi Hasan
 theme:
   name: material
-  logo: /Images/wesite_logo.png
-  favicon: /Images/wesite_logo.png
+  logo: Images/wesite_logo.png
+  favicon: Images/wesite_logo.png
   
 nav:
   - Home: index.md
