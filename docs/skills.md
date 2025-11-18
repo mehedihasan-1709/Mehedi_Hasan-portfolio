@@ -7,7 +7,7 @@
 
   <!-- Left Column: Centered Picture -->
   <div style="flex: 1; text-align: center;">
-    <img src="/Images/library.jpg" alt="Mehedi Hasan" style="width: 200px; border-radius: 8px;">
+    <img src="Images/library.jpg" alt="Mehedi Hasan" style="width: 200px; border-radius: 8px;">
   </div>
 
   <!-- Right Column: Bullet Points -->
@@ -48,7 +48,7 @@
 
   <!-- Right Column: Centered Picture -->
   <div style="flex: 1; text-align: center;">
-    <img src="/Images/dissemination.jpg" alt="Dissemination" style="width: 200px; border-radius: 8px;">
+    <img src="Images/dissemination.jpg" alt="Dissemination" style="width: 200px; border-radius: 8px;">
   </div>
 
 </div>
@@ -63,7 +63,7 @@
 
   <!-- Qualitative -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/Images/Qual analysis.png" alt="Qualitative Tools" style="width: 180px;"><br>
+    <img src="Images/Qual analysis.png" alt="Qualitative Tools" style="width: 180px;"><br>
     <strong>Qualitative Data </strong><br>
     <strong> Management & Analysis</strong><br>
     <span style="color: #09bed6ff;">Dedoose, NVIVO </span>
@@ -71,7 +71,7 @@
 
   <!-- Quantitative -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/Images/Quant data analysis.png" alt="Quantitative Tools" style="width: 180px;"><br>
+    <img src="Images/Quant data analysis.png" alt="Quantitative Tools" style="width: 180px;"><br>
     <strong>Quantitative  Data </strong><br>
     <strong>Management & Analysis</strong><br>
     <span style="color: #0808ebff;">R, STATA, SPSS, Excel</span>
@@ -79,7 +79,7 @@
 
   <!-- Geospatial -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/Images/GIS.png" alt="Geospatial Tools" style="width: 180px;"><br>
+    <img src="Images/GIS.png" alt="Geospatial Tools" style="width: 180px;"><br>
     <strong>Geospetial Data</strong><br>
     <strong>Management & Analysis</strong><br>
     <span style="color: #2b0df0ff;">ArcGIS, QGIS, Google Earth Pro</span>
@@ -87,7 +87,7 @@
 
   <!-- Reporting -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="/Images/report writing 2.png" alt="Reporting Tools" style="width: 180px;"><br>
+    <img src="Images/report writing 2.png" alt="Reporting Tools" style="width: 180px;"><br>
     <strong>Reporting & Budgeting</strong><br>
     <strong>Sub-award management</strong><br>
     <span style="color:  #09bed6ff;">Word, PowerPoint, Excel</span>
@@ -102,7 +102,7 @@
 
   <!-- UA Logo -->
   <div style="flex: 1; min-width: 150px;">
-    <img src="/Images/UofA_logo.png" alt="University of Arizona Logo" width="100" style="vertical-align: middle;">
+    <img src="Images/UofA_logo.png" alt="University of Arizona Logo" width="100" style="vertical-align: middle;">
   </div>
 
   <!-- Contact Info -->
@@ -116,19 +116,19 @@
   <div style="flex: 2; min-width: 200px; text-align: left;">
     <p><strong>Connect:</strong></p>
     <a href="http://www.linkedin.com/in/mehedi-hasan-68129813a" target="_blank" style="margin-right: 10px;">
-      <img src="/Images/Linkdin.png" alt="LinkedIn" width="24">
+      <img src="Images/Linkdin.png" alt="LinkedIn" width="24">
     </a>
     <a href="https://github.com/mehedi" target="_blank" style="margin-right: 10px;">
-      <img src="/Images/GitHub_Logo.png" alt="GitHub" width="24">
+      <img src="Images/GitHub_Logo.png" alt="GitHub" width="24">
     </a>
     <a href="https://scholar.google.com/citations?user=LSdCFa4AAAAJ&hl=en" target="_blank">
-      <img src="/Images/scholar.png" alt="Google acholar" width="24">
+      <img src="Images/scholar.png" alt="Google acholar" width="24">
     </a>
         <a href="https://www.facebook.com/profile.php?id=100008332921038&_rdc=1&_rdr#" target="_blank" style="margin-right: 10px;">
-      <img src="/Images/Facebook_logo.png" alt="Facebook" width="40">
+      <img src="Images/Facebook_logo.png" alt="Facebook" width="40">
     </a>
         <a href="https://orcid.org/0000-0002-6112-941X" target="_blank" style="margin-right: 40px;">
-      <img src="/Images/orcid-og-image.png" alt="Orchid ID" width="50">
+      <img src="Images/orcid-og-image.png" alt="Orchid ID" width="50">
     </a>
   </div> 
   <strong><I>"I'm always open to meaningful research collaborations—feel free to reach out anytime!"<I></strong>
