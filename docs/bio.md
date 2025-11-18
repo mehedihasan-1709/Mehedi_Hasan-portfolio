@@ -77,7 +77,7 @@ Mehedi’s journey is driven by a commitment to equity and inclusion, particular
       <img src="Images/Facebook_logo.png" alt="Facebook" width="40">
     </a>
         <a href="https://orcid.org/0000-0002-6112-941X" target="_blank" style="margin-right: 40px;">
-      <img src="/Images/orcid-og-image.png" alt="Orchid ID" width="50">
+      <img src="Images/orcid-og-image.png" alt="Orchid ID" width="50">
     </a>
   </div> 
 
