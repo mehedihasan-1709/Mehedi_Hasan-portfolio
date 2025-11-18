@@ -1,5 +1,5 @@
 
-<img src="Images/Mehedi.JPG" alt="Mehedi Hasan" width="450">
+<img src="Images/Mehedi.png" alt="Mehedi Hasan" width="450">
 
 ## Mehedi Hasan
 **Doctoral Student & Graduate Research Associate**  
