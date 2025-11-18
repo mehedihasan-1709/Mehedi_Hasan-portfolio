@@ -9,7 +9,7 @@ Mehedi Hasan is a Second-year PhD student in the Community, Environment, and Pol
     </p>
   </div>
   <div style="flex: 1;">
-    <img src="Images/Interviewing_disability.jpg" alt="Mehedi Hasan" width="80%">
+    <img src="Images/HBCC_team_photo.jpg" alt="Mehedi Hasan" width="80%">
   </div>
 </div>
 
@@ -79,4 +79,5 @@ Mehedi’s journey is driven by a commitment to equity and inclusion, particular
 
 </div>
 
+![Test Image](Images/Interviewing_disability.jpg)
 
