@@ -1,0 +1,22 @@
+site_name: Mehedi Hasan
+theme:
+  name: material
+  logo: /Images/wesite_logo.png
+  favicon: /Images/wesite_logo.png
+  
+nav:
+  - Home: index.md
+  - About: bio.md
+  - Education: Education.md
+  - Experience: Experience.md
+  - Skills: skills.md
+  - Research:
+      - Overview: research/index.md
+      - Grants: research/grants.md
+      - Peer-Reviewed: research/peer_reviewed.md
+      - Conference: research/conference.md
+      - Published Reports: research/published_report.md
+  - Mentoring: mentoring.md
+  - Media Content: media_contants.md
+  - Contact: contact.md
+
