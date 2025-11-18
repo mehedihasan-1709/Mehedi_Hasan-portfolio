@@ -8,7 +8,7 @@
   <tr>
     <!-- Left Column: Image -->
     <td style="width: 40%; text-align: center;">
-      <img src="Images/publications.png" alt="Peer reviewed publications" width="250">
+      <img src="../Images/publications.png" alt="Peer reviewed publications" width="250">
     </td>
 
     <!-- Right Column: Centered Paragraph -->
@@ -28,7 +28,7 @@
   <tr>
     <!-- Left Column: Image -->
     <td style="width: 40%; text-align: center;">
-      <img src="Images/Image for conference.png" alt="conference paper" width="250">
+      <img src="../Images/Image for conference.png" alt="conference paper" width="250">
     </td>
 
     <!-- Right Column: Centered Paragraph -->
@@ -49,7 +49,7 @@
   <tr>
     <!-- Left Column: Image -->
     <td style="width: 40%; text-align: center;">
-      <img src="Images/published report.png" alt="published report" width="250">
+      <img src="../Images/published report.png" alt="published report" width="250">
     </td>
 
     <!-- Right Column: Centered Paragraph -->
