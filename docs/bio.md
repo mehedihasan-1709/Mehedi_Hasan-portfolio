@@ -18,7 +18,7 @@ Mehedi Hasan is a Second-year PhD student in the Community, Environment, and Pol
 <!-- Paragraph 2 with image on the left -->
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 30px;">
   <div style="flex: 1;">
-    <img src="Images/dissemination.JPG" alt="Monte Carlo Simulation" width="100%">
+    <img src="Images/dissemination.jpg" alt="Monte Carlo Simulation" width="100%">
   </div>
   <div style="flex: 1;">
     <p>
@@ -36,7 +36,7 @@ His ability to lead diverse research teams, mentor students, and translate resea
     </p>
   </div>
   <div style="flex: 1;">
-    <img src="Images/presentation.JPG" alt="Mehedi Hasan" width="80%">
+    <img src="Images/presentation.jpg" alt="Mehedi Hasan" width="80%">
   </div>
 </div>
       
