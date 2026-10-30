@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a8e063"/><stop offset="1" stop-color="#56ab2f"/></linearGradient></defs>
-<rect width="800" height="600" fill="url(#g)"/>
-<path d="M0 470 L180 300 L300 410 L470 220 L800 500 L800 600 L0 600 Z" fill="#000" fill-opacity="0.18"/>
-<circle cx="620" cy="140" r="48" fill="#fff" fill-opacity="0.35"/>
-<g fill="none" stroke="#fff" stroke-opacity="0.85" stroke-width="6" stroke-linejoin="round"><rect x="340" y="250" width="120" height="86" rx="12"/><circle cx="400" cy="293" r="24"/><path d="M370 250 l10 -16 h40 l10 16"/></g>
-<text x="400" y="390" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600" fill="#fff">Nature</text>
-<text x="400" y="425" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#fff" fill-opacity="0.85">Photo coming soon</text>
-</svg>

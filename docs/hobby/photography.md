@@ -2,17 +2,26 @@
 
 Outside research, I enjoy photography: landscapes, everyday street scenes, and the places I travel to. This gallery is a small collection of moments that caught my eye.
 
-<!-- To add a photo: put the image in docs/Images/photography/ and replace a placeholder's src, alt and caption below. -->
+<!-- To add a photo: put the image in docs/Images/photography/ and copy one of the <figure> lines below. -->
 <div class="photo-grid">
-  <figure><img src="../../Images/photography/placeholder-1.svg" alt="Landscape photo placeholder" loading="lazy"><figcaption>Landscape · Location, Year</figcaption></figure>
-  <figure><img src="../../Images/photography/placeholder-2.svg" alt="Nature photo placeholder" loading="lazy"><figcaption>Nature · Location, Year</figcaption></figure>
-  <figure><img src="../../Images/photography/placeholder-3.svg" alt="Street photo placeholder" loading="lazy"><figcaption>Street · Location, Year</figcaption></figure>
-  <figure><img src="../../Images/photography/placeholder-4.svg" alt="Travel photo placeholder" loading="lazy"><figcaption>Travel · Location, Year</figcaption></figure>
-  <figure><img src="../../Images/photography/placeholder-5.svg" alt="People photo placeholder" loading="lazy"><figcaption>People · Location, Year</figcaption></figure>
-  <figure><img src="../../Images/photography/placeholder-6.svg" alt="Night sky photo placeholder" loading="lazy"><figcaption>Night Sky · Location, Year</figcaption></figure>
-  <figure><img src="../../Images/photography/placeholder-7.svg" alt="Architecture photo placeholder" loading="lazy"><figcaption>Architecture · Location, Year</figcaption></figure>
-  <figure><img src="../../Images/photography/placeholder-8.svg" alt="Wildlife photo placeholder" loading="lazy"><figcaption>Wildlife · Location, Year</figcaption></figure>
-  <figure><img src="../../Images/photography/placeholder-9.svg" alt="Sunset photo placeholder" loading="lazy"><figcaption>Sunset · Location, Year</figcaption></figure>
+  <figure><a href="../../Images/photography/bangladeshi-fall.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/bangladeshi-fall.jpeg" alt="Bangladeshi Fall" loading="lazy"></a><figcaption>Bangladeshi Fall</figcaption></figure>
+  <figure><a href="../../Images/photography/broken-but-vibrant.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/broken-but-vibrant.jpeg" alt="Broken but vibrant!" loading="lazy"></a><figcaption>Broken but vibrant!</figcaption></figure>
+  <figure><a href="../../Images/photography/canyon-house.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/canyon-house.jpeg" alt="Canyon house" loading="lazy"></a><figcaption>Canyon house</figcaption></figure>
+  <figure><a href="../../Images/photography/circle.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/circle.jpeg" alt="Circle!!" loading="lazy"></a><figcaption>Circle!!</figcaption></figure>
+  <figure><a href="../../Images/photography/close-up-mezcoph.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/close-up-mezcoph.jpeg" alt="Close-up@MEZCOPH" loading="lazy"></a><figcaption>Close-up@MEZCOPH</figcaption></figure>
+  <figure><a href="../../Images/photography/concentration.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/concentration.jpeg" alt="Concentration..." loading="lazy"></a><figcaption>Concentration...</figcaption></figure>
+  <figure><a href="../../Images/photography/downtown-chicago.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/downtown-chicago.jpeg" alt="Downtown Chicago" loading="lazy"></a><figcaption>Downtown Chicago</figcaption></figure>
+  <figure><a href="../../Images/photography/evening-in-tucson.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/evening-in-tucson.jpeg" alt="Evening in tucson" loading="lazy"></a><figcaption>Evening in tucson</figcaption></figure>
+  <figure><a href="../../Images/photography/model.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/model.jpeg" alt="Model" loading="lazy"></a><figcaption>Model</figcaption></figure>
+  <figure><a href="../../Images/photography/mom-with-kids-silverbell-lake.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/mom-with-kids-silverbell-lake.jpeg" alt="Mom with kids · Silverbell Lake" loading="lazy"></a><figcaption>Mom with kids · Silverbell Lake</figcaption></figure>
+  <figure><a href="../../Images/photography/night-window.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/night-window.jpeg" alt="Night window" loading="lazy"></a><figcaption>Night window</figcaption></figure>
+  <figure><a href="../../Images/photography/no-openings.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/no-openings.jpeg" alt="No openings." loading="lazy"></a><figcaption>No openings.</figcaption></figure>
+  <figure><a href="../../Images/photography/pine-apple.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/pine-apple.jpeg" alt="Pine Apple!!" loading="lazy"></a><figcaption>Pine Apple!!</figcaption></figure>
+  <figure><a href="../../Images/photography/red-shed.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/red-shed.jpeg" alt="Red shed" loading="lazy"></a><figcaption>Red shed</figcaption></figure>
+  <figure><a href="../../Images/photography/road-to-gand-canyon.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/road-to-gand-canyon.jpeg" alt="Road to Gand canyon" loading="lazy"></a><figcaption>Road to Gand canyon</figcaption></figure>
+  <figure><a href="../../Images/photography/sunset.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/sunset.jpeg" alt="Sunset!!" loading="lazy"></a><figcaption>Sunset!!</figcaption></figure>
+  <figure><a href="../../Images/photography/waiting-for-the-sunrise.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/waiting-for-the-sunrise.jpeg" alt="Waiting for the sunrise" loading="lazy"></a><figcaption>Waiting for the sunrise</figcaption></figure>
+  <figure><a href="../../Images/photography/yellow.jpeg" target="_blank" rel="noopener"><img src="../../Images/photography/yellow.jpeg" alt="Yellow!!" loading="lazy"></a><figcaption>Yellow!!</figcaption></figure>
 </div>
 
 <hr>
