@@ -16,7 +16,12 @@ nav:
       - Peer-Reviewed: research/peer_reviewed.md
       - Conference: research/conference.md
       - Published Reports: research/published_report.md
+  - Geospatial Works: geospatial.md
   - Mentoring: mentoring.md
   - Media Content: media_contants.md
+  - Hobby:
+      - Photography: hobby/photography.md
   - Contact: contact.md
+extra_css:
+  - stylesheets/extra.css
 site_url: https://mehedihasan-1709.github.io/Mehedi_Hasan-portfolio/
